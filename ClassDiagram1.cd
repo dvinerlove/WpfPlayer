@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="WpfPlayer.App" Collapsed="true">
+    <Position X="13.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>App.xaml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfPlayer.BrotherlyPanel" Collapsed="true">
+    <Position X="11.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BrotherlyPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfPlayer.FullScreenImage" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAgAAAAEAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>FullScreenImage.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WpfPlayer.BoolToVisibilityConverter" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MainWindow.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WpfPlayer.Page" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Page.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WpfPlayer.PlaylistNameDialog" BaseTypeListCollapsed="true">
+    <Position X="5.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAgAAAAAAAEAAAAAAQAAAEAAAAA=</HashCode>
+      <FileName>PlaylistNameDialog.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="WpfPlayer.ProgressBarOpen" BaseTypeListCollapsed="true">
+    <Position X="7.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAgAAAAAAAAAABAAAAAAAgAAAAAQAAAAAAAAA=</HashCode>
+      <FileName>ProgressBarOpen.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.216" />
+  </Class>
+  <Class Name="WpfPlayer.TagEditor" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="14" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAEAABAAEAAIAgAIAAIEAAAAAABAAAACACAgAggA=</HashCode>
+      <FileName>TagEditor.xaml.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="WpfPlayer.Models.Audio">
+    <Position X="1.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAQAAgAgAACAEAAAAAAAAAAAAAAAAEEAAAACAAAEoY=</HashCode>
+      <FileName>Models\Audio.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfPlayer.Models.AudioS" Collapsed="true">
+    <Position X="14" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAiAEAAgAAACAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Models\AudioS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfPlayer.Models.Playlist">
+    <Position X="3.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAEAAAAAAAAAAAAAAAQAAAAAABAABAAAAAAAAgA=</HashCode>
+      <FileName>Models\Playlist.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfPlayer.Services.MyContextInitializer" Collapsed="true">
+    <Position X="12.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Context.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfPlayer.Services.Context" Collapsed="true">
+    <Position X="12.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Context.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="WpfPlayer.Services.Database" Collapsed="true">
+    <Position X="14" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Services\Database.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

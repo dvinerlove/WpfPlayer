@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfPlayer", "WpfPlayer.csproj", "{5BEFDC4C-25D2-45B5-90F8-7D550262A437}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5BEFDC4C-25D2-45B5-90F8-7D550262A437}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BEFDC4C-25D2-45B5-90F8-7D550262A437}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5BEFDC4C-25D2-45B5-90F8-7D550262A437}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5BEFDC4C-25D2-45B5-90F8-7D550262A437}.Debug|x64.Build.0 = Debug|Any CPU
+		{5BEFDC4C-25D2-45B5-90F8-7D550262A437}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BEFDC4C-25D2-45B5-90F8-7D550262A437}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5BEFDC4C-25D2-45B5-90F8-7D550262A437}.Release|x64.ActiveCfg = Release|Any CPU
+		{5BEFDC4C-25D2-45B5-90F8-7D550262A437}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {957F72DA-FB04-4528-8742-EBD0FE487F30}
+	EndGlobalSection
+EndGlobal
